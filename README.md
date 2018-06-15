@@ -1,6 +1,6 @@
 ## About Me 
 
-We'll come back to this
+I am a scholarly communication intern at Oregon Health and Science University Library. I have a Master of Library and Information Studies from the University of Alabama and a Bachelor of Journalism from the University of Missouri. My interests include library accessibility, information literacy, and efficient and open communication. In addition to my work at OHSU, I have interned at St. Louis University Law Library and the Law Library Association of St. Louis and worked as a library assistant and page in the St. Charles City-County Library District. Read more somewhere?
 
 ### Experience
 
@@ -16,10 +16,3 @@ We'll come back to this
   * Ran circulation desk efficiently and professionally
   * Acted as public face of St. Charles City-County Library District 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ohancock/librarian-glasses/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
