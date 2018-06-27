@@ -8,17 +8,5 @@ I am an independent worker who is able to locate, assimilate and convey complex 
 
 To continue the conversation, contact me at ohancock23@gmail.com.
 
-### Experience
 
-#### Oregon Health and Science University - Intern
-* June 2018 - Present
-  * Create GitHub repository and assist with impact workshop series
-  * Collaborate on LibGuide about OHSU’s revised copyright policy
-  * Participate in and observe meetings on library business
-  
-#### St. Charles City-County Library - Library Assistant
-* June 2016 - May 2018
-  * Performed circulation services such as reserves, fines and library cards
-  * Ran circulation desk efficiently and professionally
-  * Acted as public face of St. Charles City-County Library District 
 
